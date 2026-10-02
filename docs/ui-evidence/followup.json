@@ -1,0 +1,7 @@
+[
+  "focus {\"tag\":\"INPUT\",\"outline\":\"rgba(0, 0, 0, 0) none 0px\",\"boxShadow\":\"rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(18, 18, 23, 0.047) 0px 0.929199px 1.8584px 0px\",\"className\":\"p-inputtext p-component ng-untouched ng-pristine ng-invalid\"}",
+  "cart \"ITEM\\tQTY\\tPRICE\\tDISCOUNT\\tLINE\\t\\n\\nCart is empty\\nSearch a medicine or scan a barcode to start the sale.\\nAMOUNT DUE\\n$0.00\\n\\nSubtotal $0.00 · discount cap 10%\\n\\nCUSTOMER SEARCH\\nSALE DISCOUNT\\nMETHOD\\nCash\\nAMOUNT\\nCASH TENDERED\\nRemove\\nAdd payment\\nCompl\"",
+  "menu {\"open\":false,\"left\":-231}",
+  "settings overlap 0 labels allow authorized expired use | expiry warning days | address | currency | name | phone | timezone | footer | max discount percent | password min length",
+  "dialog true Edit medicine"
+]

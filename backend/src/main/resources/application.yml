@@ -1,0 +1,61 @@
+server:
+  port: ${SERVER_PORT:8080}
+  error:
+    include-message: never
+    include-binding-errors: never
+    include-stacktrace: never
+
+spring:
+  application:
+    name: pharmacy
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/pharmacy}
+    username: ${DB_USERNAME:pharmacy}
+    password: ${DB_PASSWORD}
+    hikari:
+      maximum-pool-size: ${DB_POOL_SIZE:10}
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate.jdbc.time_zone: UTC
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+    time-zone: UTC
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+  endpoint:
+    health:
+      probes:
+        enabled: true
+      show-details: never
+
+pharmacy:
+  jwt:
+    secret: ${JWT_SECRET}
+    access-token-minutes: ${JWT_ACCESS_MINUTES:15}
+    refresh-token-hours: ${JWT_REFRESH_HOURS:12}
+  cors-origins: ${CORS_ORIGINS:http://localhost:*,http://127.0.0.1:*,http://localhost:4200}
+  admin:
+    username: ${PHARMACY_ADMIN_USERNAME:admin}
+    email: ${PHARMACY_ADMIN_EMAIL:admin@pharmacy.local}
+    password: ${PHARMACY_ADMIN_PASSWORD:}
+    full-name: ${PHARMACY_ADMIN_FULL_NAME:System Administrator}
+    must-change-password: ${PHARMACY_ADMIN_MUST_CHANGE_PASSWORD:true}
+  security:
+    login-max-failures: ${LOGIN_MAX_FAILURES:5}
+    login-lock-minutes: ${LOGIN_LOCK_MINUTES:15}
+
+logging:
+  level:
+    org.springframework.security: INFO
+    com.pharmacy: INFO

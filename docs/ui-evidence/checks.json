@@ -1,0 +1,422 @@
+{
+  "console": [],
+  "apiFailures": [],
+  "overflow": [],
+  "pages": [
+    {
+      "file": "login-desktop.png",
+      "url": "/login",
+      "title": "",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "login-laptop.png",
+      "url": "/login",
+      "title": "",
+      "scrollWidth": 1280,
+      "clientWidth": 1280,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "login-tablet.png",
+      "url": "/login",
+      "title": "",
+      "scrollWidth": 1024,
+      "clientWidth": 1024,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "login-portrait.png",
+      "url": "/login",
+      "title": "",
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "dashboard-desktop.png",
+      "url": "/dashboard",
+      "title": "Dashboard",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "dashboard-laptop.png",
+      "url": "/dashboard",
+      "title": "Dashboard",
+      "scrollWidth": 1280,
+      "clientWidth": 1280,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "dashboard-tablet.png",
+      "url": "/dashboard",
+      "title": "Dashboard",
+      "scrollWidth": 1024,
+      "clientWidth": 1024,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "dashboard-portrait.png",
+      "url": "/dashboard",
+      "title": "Dashboard",
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "dashboard-portrait-menu.png",
+      "url": "/dashboard",
+      "title": "Dashboard",
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "medicines-desktop.png",
+      "url": "/medicines",
+      "title": "Medicines",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "medicines-laptop.png",
+      "url": "/medicines",
+      "title": "Medicines",
+      "scrollWidth": 1280,
+      "clientWidth": 1280,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "medicines-tablet.png",
+      "url": "/medicines",
+      "title": "Medicines",
+      "scrollWidth": 1024,
+      "clientWidth": 1024,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "medicines-portrait.png",
+      "url": "/medicines",
+      "title": "Medicines",
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "inventory-desktop.png",
+      "url": "/stock",
+      "title": "Stock",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "inventory-tablet.png",
+      "url": "/stock",
+      "title": "Stock",
+      "scrollWidth": 1024,
+      "clientWidth": 1024,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "inventory-portrait.png",
+      "url": "/stock",
+      "title": "Stock",
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "inventory-batches-desktop.png",
+      "url": "/stock",
+      "title": "Stock",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "inventory-movements-desktop.png",
+      "url": "/stock",
+      "title": "Stock",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "locations-desktop.png",
+      "url": "/locations",
+      "title": "Shelves and racks",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "prescriptions-desktop.png",
+      "url": "/prescriptions",
+      "title": "Prescriptions",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "dispensing-desktop.png",
+      "url": "/prescriptions/3",
+      "title": "RX-20260930-0002",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "customers-desktop.png",
+      "url": "/customers",
+      "title": "Customers and patients",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "profile-desktop.png",
+      "url": "/profile",
+      "title": "Profile",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "pos-desktop.png",
+      "url": "/pos",
+      "title": "Point of sale",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "pos-laptop.png",
+      "url": "/pos",
+      "title": "Point of sale",
+      "scrollWidth": 1280,
+      "clientWidth": 1280,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "pos-tablet.png",
+      "url": "/pos",
+      "title": "Point of sale",
+      "scrollWidth": 1024,
+      "clientWidth": 1024,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "pos-portrait.png",
+      "url": "/pos",
+      "title": "Point of sale",
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "pos-cart-desktop.png",
+      "url": "/pos",
+      "title": "Point of sale",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "sales-desktop.png",
+      "url": "/sales",
+      "title": "Sales",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "sale-detail-desktop.png",
+      "url": "/sales/4",
+      "title": "SAL-20260930-0003",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "receipt-desktop.png",
+      "url": "/sales/4",
+      "title": "SAL-20260930-0003",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "returns-desktop.png",
+      "url": "/returns",
+      "title": "Returns",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "purchases-desktop.png",
+      "url": "/purchases",
+      "title": "Purchases",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "purchase-detail-desktop.png",
+      "url": "/purchases/2",
+      "title": "PUR-20260930-0002",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "suppliers-desktop.png",
+      "url": "/suppliers",
+      "title": "Suppliers",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "purchase-new-desktop.png",
+      "url": "/purchases/new",
+      "title": "New purchase",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "reports-desktop.png",
+      "url": "/reports",
+      "title": "Reports",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "reports-results-desktop.png",
+      "url": "/reports",
+      "title": "Reports",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "users-desktop.png",
+      "url": "/users",
+      "title": "Users",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "settings-desktop.png",
+      "url": "/settings",
+      "title": "Settings",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "audit-desktop.png",
+      "url": "/audit",
+      "title": "Activity history",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "roles-desktop.png",
+      "url": "/roles",
+      "title": "Roles and permissions",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "medicines-admin-desktop.png",
+      "url": "/medicines",
+      "title": "Medicines",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    },
+    {
+      "file": "medicine-details-desktop.png",
+      "url": "/medicines",
+      "title": "Medicines",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "hasHorizontal": false,
+      "sidebarCovers": false
+    }
+  ],
+  "workflows": [
+    "login pharmacist -> http://localhost:8088/dashboard",
+    "portrait menu opened",
+    "portrait menu button after resize back true",
+    "batches tab clicked true http://localhost:8088/stock",
+    "opened prescription RX-20260930-0002 http://localhost:8088/prescriptions/3",
+    "login cashier -> http://localhost:8088/dashboard",
+    "pos cart complete-sale visible true",
+    "opened sale SAL-20260930-0003 http://localhost:8088/sales/4",
+    "receipt clicked true",
+    "login storekeeper -> http://localhost:8088/dashboard",
+    "opened purchase PUR-20260930-0002 http://localhost:8088/purchases/2",
+    "login admin -> http://localhost:8088/dashboard",
+    "reports run http://localhost:8088/reports",
+    "medicine details menu true edit true"
+  ],
+  "a11y": [
+    "login tab focus {\"tag\":\"INPUT\",\"outline\":\"none\",\"width\":\"0px\",\"labeled\":true}"
+  ]
+}
